@@ -5,7 +5,9 @@ class MyDocument extends Document {
   render() {
     return (
       <Html lang="zh-cn" className="theme-compiled">
-        <Head />
+      <Head>
+      <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://s4.ax1x.com/2022/02/07/HMP7VI.png">
+      </Head>
         <body
           className={`antialiased text-lg bg-white dark:bg-gray-900 dark:text-white leading-base`}
         >
