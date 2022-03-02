@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang="zh-cn" className="theme-compiled">
        <Head>
-       <link rel="icon" type="image/png" href="https://s4.ax1x.com/2022/02/07/HMP7VI.png" />
+       <link rel="icon" type="image/png" href="https://s4.ax1x.com/2022/03/02/b3munO.png" />
        </Head>
         <body
           className={`antialiased text-lg bg-white dark:bg-gray-900 dark:text-white leading-base`}
